@@ -1,10 +1,10 @@
 // config.js
 export default {
   site: {
-    title: 'React Universal Blog'
+    title: 'Noticias'
   },
   bucket: {
-    slug: process.env.COSMIC_BUCKET || 'react-universal-blog',
+    slug: process.env.COSMIC_BUCKET || 'noticias',
     media_url: 'https://cosmicjs.com/uploads'
   }
 }
